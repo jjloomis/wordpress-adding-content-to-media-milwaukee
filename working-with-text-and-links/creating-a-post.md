@@ -1,12 +1,12 @@
 # Creating a Post
 
-To add a story to a news site, you'll need to create a post and submit it for review. Your post will not be public until your instructor or editor reviews and approves your content.
+To add a story to Media Milwaukee, you'll need to create a post and submit it for review. Your post will not be public until your instructor or editor reviews and approves your content.
 
 1. From the Dashboard, click **Posts** and select **Add New**. 
 2. Enter a title for your post.
-3. Use the [Visual editor](/working-with-text-and-links/working-with-content-in-the-visual-editor.md) to add text and media elements to your post. Use the [Text editor](/working-with-text-and-links/working-with-content-in-the-text-editor.md) when working with code.
-4. Select a category. **Note**: Do not select a home page category \(Home - Whatever.\) Your instructor or editor will do this. 
+3. Add text, images, and other media as needed.
+4. Add a featured image if you have one available. 
 5. Edit your URL, if necessary. 
 6. To preview your post, click **Preview**. **Note**: This will open a new tab in your browser. Be sure to work with the original tab when making changes to your post.
-7. When finished, click **Submit for Review** or **Publish**. 
+7. When finished, click the **Publish** button and then select **Submit for Review**. 
 
