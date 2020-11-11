@@ -9,3 +9,7 @@
 * [Resetting Your Password](accessing-media-milwaukee/resetting-your-password.md)
 * [Switching From Dashboard to Live Site](accessing-media-milwaukee/switching-from-dashboard-to-live-site.md)
 
+## Working With Text and Links
+
+* [Creating a Post](working-with-text-and-links/creating-a-post.md)
+
