@@ -12,4 +12,5 @@
 ## Working With Text and Links
 
 * [Creating a Post](working-with-text-and-links/creating-a-post.md)
+* [Adding Text](working-with-text-and-links/adding-text.md)
 
