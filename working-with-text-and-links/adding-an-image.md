@@ -1,6 +1,6 @@
 # Adding an Image
 
-### Renaming images
+### Renaming an image
 
 Before uploading an image, give it a relevant name following [JAMS file and folder naming conventions](https://jjloomis.gitbooks.io/file-and-folder-management/content/file-and-folder-naming-conventions.html). 
 
