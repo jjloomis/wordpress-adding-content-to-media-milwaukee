@@ -15,4 +15,5 @@
 * [Adding Text](working-with-text-and-links/adding-text.md)
 * [Creating or Editing a Link](working-with-text-and-links/creating-or-editing-a-link.md)
 * [Adding an Image](working-with-text-and-links/adding-an-image.md)
+* [Aligning and Resizing an Image](working-with-text-and-links/aligning-and-resizing-an-image.md)
 
