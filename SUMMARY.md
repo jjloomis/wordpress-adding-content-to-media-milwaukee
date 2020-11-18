@@ -18,4 +18,5 @@
 * [Aligning and Resizing an Image](working-with-text-and-links/aligning-and-resizing-an-image.md)
 * [Adding an MP3](working-with-text-and-links/adding-an-mp3.md)
 * [Adding a Video](working-with-text-and-links/adding-a-video.md)
+* [Adding a Caption and Alt Text to an Image, MP3, or Video](working-with-text-and-links/adding-a-caption-and-alt-text-to-an-image-mp3-or-video.md)
 
