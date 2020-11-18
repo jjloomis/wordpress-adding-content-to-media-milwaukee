@@ -21,4 +21,5 @@
 * [Adding a Caption and Alt Text to an Image, MP3, or Video](working-with-text-and-links/adding-a-caption-and-alt-text-to-an-image-mp3-or-video.md)
 * [Adding a Blockquote](working-with-text-and-links/adding-a-blockquote.md)
 * [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
+* [Moving and Deleting Items in a Post](working-with-text-and-links/moving-and-deleting-items-in-a-post.md)
 
