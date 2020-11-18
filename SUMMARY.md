@@ -18,9 +18,11 @@
 * [Aligning and Resizing an Image](working-with-text-and-links/aligning-and-resizing-an-image.md)
 * [Adding an MP3](working-with-text-and-links/adding-an-mp3.md)
 * [Adding a Video](working-with-text-and-links/adding-a-video.md)
+* [Aligning and Resizing a Video](working-with-text-and-links/aligning-and-resizing-a-video.md)
 * [Adding a Caption and Alt Text to an Image, MP3, or Video](working-with-text-and-links/adding-a-caption-and-alt-text-to-an-image-mp3-or-video.md)
 * [Adding a Blockquote](working-with-text-and-links/adding-a-blockquote.md)
 * [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
 * [Moving and Deleting Items in a Post](working-with-text-and-links/moving-and-deleting-items-in-a-post.md)
 * [Setting a Featured Image](working-with-text-and-links/setting-a-featured-image.md)
+* [Switching Between Default and Advanced Post Template](working-with-text-and-links/switching-between-default-and-advanced-post-template.md)
 
