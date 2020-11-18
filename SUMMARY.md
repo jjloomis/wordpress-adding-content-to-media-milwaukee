@@ -22,4 +22,5 @@
 * [Adding a Blockquote](working-with-text-and-links/adding-a-blockquote.md)
 * [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
 * [Moving and Deleting Items in a Post](working-with-text-and-links/moving-and-deleting-items-in-a-post.md)
+* [Setting a Featured Image](working-with-text-and-links/setting-a-featured-image.md)
 
