@@ -30,4 +30,5 @@
 ## Administrator Actions
 
 * [Editing and Publishing a Pending Story](administrator-actions/editing-and-publishing-a-pending-story.md)
+* [Assigning Categories and Adding Story to Home Page](administrator-actions/assigning-categories-and-adding-story-to-home-page.md)
 
