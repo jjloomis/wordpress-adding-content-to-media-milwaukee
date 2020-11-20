@@ -31,5 +31,9 @@
 
 * [Editing and Publishing a Pending Story](administrator-actions/editing-and-publishing-a-pending-story.md)
 * [Assigning Categories and Adding Story to Home Page](administrator-actions/assigning-categories-and-adding-story-to-home-page.md)
-* [Viewing Featured Image Dimensions](administrator-actions/viewing-featured-image-dimensions.md)
+* [Working with Roles and Adding Users](administrator-actions/working-with-roles-and-adding-users.md)
+
+## Troubleshooting
+
+* [Unable to Log In](troubleshooting/unable-to-log-in.md)
 
