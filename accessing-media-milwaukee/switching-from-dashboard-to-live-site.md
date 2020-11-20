@@ -1,6 +1,6 @@
 # Switching From Dashboard to Live Site
 
-The Dashboard controls the backend of the site. It’s what you see when you initially login to WordPress. As you work, you’ll need to switch back and forth between the Dashboard and your live site.
+The **Dashboard** controls the backend of the site. It’s what you see when you initially login to WordPress. As you work, you’ll need to switch back and forth between the **Dashboard** and your live site.
 
 To switch between Dashboard and your live site:
 
