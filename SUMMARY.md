@@ -36,4 +36,5 @@
 ## Troubleshooting
 
 * [Unable to Log In](troubleshooting/unable-to-log-in.md)
+* [Featured Image is Wrong, Upside Down or Sideways on Social Media](troubleshooting/featured-image-is-wrong-upside-down-or-sideways-on-social-media.md)
 
