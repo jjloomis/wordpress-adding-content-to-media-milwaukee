@@ -1,4 +1,4 @@
-# Left panel is Icons \(Not Words\)
+# Left panel is Icons \(Instead of Words\)
 
 **Problem**: Left panel is icons \(not words.\)
 
