@@ -1,8 +1,6 @@
 # Logging in to Media Milwaukee
 
-To log into a self-hosted WordPress site \(like Media Milwaukee\), go to the site's home page and add `/wp-admin/` to the end of the URL.
-
-## Media Milwaukee
+## Logging in
 
 1. Go to the following URL: [http://mediamilwaukee.com/wp-admin/](http://mediamilwaukee.com/wp-admin/)
 2. Use your UWM email address in the username field. Use the password you created when you [reset your password](/accessing-the-news-site/resetting-your-password.md). **Note:** Your password is not synced with your UWM accounts \(D2L, PAWS, Outlook 365, etc.\) Your username is your UWM email address because it's an easy to remember unique identifier. 
