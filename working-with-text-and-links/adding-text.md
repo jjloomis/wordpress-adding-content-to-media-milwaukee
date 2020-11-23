@@ -2,9 +2,9 @@
 
 ### Manually enter text
 
-1. Click within a **Text** block and start typing.
+1. Click within a **Paragraph** block and start typing.
 2. Press **Return** or **Enter** \(on keyboard\) to create a new **Text** block.
-3. To manually add a **Text** block, click the **Add block** button \(plus sign.\) Select the **Paragraph** block.  
+3. To manually add a **Paragraph** block, click the **Add block** button \(plus sign.\) Select the **Paragraph** block.  
 
 ### Copy and paste text from Word or Google Docs
 
