@@ -26,12 +26,14 @@
 * [Moving and Deleting Items in a Post](working-with-text-and-links/moving-and-deleting-items-in-a-post.md)
 * [Setting a Featured Image](working-with-text-and-links/setting-a-featured-image.md)
 * [Switching Between Default and Advanced Post Template](working-with-text-and-links/switching-between-default-and-advanced-post-template.md)
+* [Previewing a Post](working-with-text-and-links/previewing-a-post.md)
 * [Submitting a Post for Review](working-with-text-and-links/submitting-a-post-for-review.md)
 
 ## Administrator Actions
 
 * [Editing and Publishing a Pending Story](administrator-actions/editing-and-publishing-a-pending-story.md)
 * [Assigning Categories and Adding Story to Home Page](administrator-actions/assigning-categories-and-adding-story-to-home-page.md)
+* [Changing Publication Date and Time](administrator-actions/changing-publication-date-and-time.md)
 * [Working with Roles and Adding Users](administrator-actions/working-with-roles-and-adding-users.md)
 
 ## Troubleshooting
