@@ -1,6 +1,6 @@
 # Setting a Featured Image
 
-A featured image is the image that appears in a home page box \(**Top Stories**, **Headlines**, etc.\) When using the **Advanced** template, the featured image is also the hero image \(large image on top\) of the story.
+A featured image is the image that appears in a home page box \(**Top Stories**, **Headlines**, etc.\) When using the **Advanced** **template**, the featured image is also the hero image \(large image on top\) of the story.
 
 A featured image must be a landscape-oriented image. Minimum dimensions are 2048 x 1536 pixels. If you take photos with a modern phone or camera, the picture will meet \(or exceed\) these dimensions. Photos downloaded from social media or other websites will not meet the minimum dimensions. 
 
