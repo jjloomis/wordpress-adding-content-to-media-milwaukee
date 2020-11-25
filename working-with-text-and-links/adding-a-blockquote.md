@@ -8,5 +8,7 @@ When you create a **blockquote** it is not necessary to put quotation marks arou
 2. In the **Quote** block, write the quote \(without quotation marks\) and add the citation \(name of person who said the quote.\)
 3. When finished, click **Save draft**. 
 
+![](../.gitbook/assets/blockquote.png)
+
 
 

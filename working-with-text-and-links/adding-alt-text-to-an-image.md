@@ -7,3 +7,5 @@ Every image in a post needs an alt text \(alternative text\) description. Alt te
 3. In the **Alt text** box, add a brief description of the content of the photo.
 4. When finished, click **Save Draft**.
 
+![](../.gitbook/assets/alt-text.png)
+

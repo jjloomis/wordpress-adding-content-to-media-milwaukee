@@ -15,6 +15,8 @@ Credits for an image, MP3, or video from an authorized source should appear in t
 3. If working with an image, add [alt text](adding-alt-text-to-an-image.md). 
 4. When finished, click **Save Draft**.
 
+![](../.gitbook/assets/image-caption.png)
+
 ### 
 
 

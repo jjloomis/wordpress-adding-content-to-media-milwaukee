@@ -12,6 +12,8 @@
 2. In the block's toolbar, click the **More options** \(three dots\) button. In the fly-out menu, choose **Remove block**.
 3. When finished, click **Save draft**. 
 
+![](../.gitbook/assets/remove-block.png)
+
 
 
 

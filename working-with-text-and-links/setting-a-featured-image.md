@@ -12,5 +12,7 @@ A featured image must be a landscape-oriented image. Minimum dimensions are 2048
 4. In the **Featured Image** box, use the **Upload** tab to navigate to and select an image on your computer. Or, use the **Media Library** tab to select an image that was previously added to the site.
 5. Click **Set featured image**.
 
+![](../.gitbook/assets/featured-image.png)
+
 
 
