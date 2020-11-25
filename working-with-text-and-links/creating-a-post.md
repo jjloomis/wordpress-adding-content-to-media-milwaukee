@@ -10,3 +10,5 @@ To add a story to Media Milwaukee, you'll need to create a post and submit it fo
 6. To preview your post, click **Preview**. **Note**: This will open a new tab in your browser. Be sure to work with the original tab when making changes to your post.
 7. When finished, click the **Publish** button and then select **Submit for Review**. 
 
+![](../.gitbook/assets/creating-a-post.png)
+
