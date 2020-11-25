@@ -6,5 +6,7 @@
 4. Click the **Link** button in the **text toolbar.** 
 5. Paste the URL in the **Search or type url** field. Click the **Submit** button \(arrow.\)
 
+![](../.gitbook/assets/link.png)
+
 
 

@@ -8,6 +8,8 @@
 6. WordPress will provide you with a new password. Delete this password and enter a new one. **Note**: You will need to create a strong password.
 7. After your password is reset, click the **Log in** link to log into your site with your new password.
 
+![](../.gitbook/assets/lost-your-password.png)
+
 ## Common login problems
 
 * Attempting to log into WordPress.com instead of [Media Milwaukee log in screen](logging-in-to-media-milwaukee.md).

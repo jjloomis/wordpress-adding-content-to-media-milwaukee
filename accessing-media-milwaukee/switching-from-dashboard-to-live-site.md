@@ -7,3 +7,5 @@ To switch between **Dashboard** and your live site:
 1. Click the name of the site in the upper-left corner.
 2. In the drop-down menu, choose **Dashboard** or **Visit Site**.
 
+![](../.gitbook/assets/dashboard-live-site.png)
+

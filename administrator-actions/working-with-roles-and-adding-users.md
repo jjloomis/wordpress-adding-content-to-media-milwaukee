@@ -18,9 +18,9 @@ Always give a user the lowest level role they need. If you're unsure about what 
 
 ## Adding a User
 
-1. In the Dashboard, go to **Users** and select **Add New**.
-2. On the Add New User page, fill in the fields with with new user's appropriate information. Note: Use the student's UWM email address for both the username and email address.
-3. Make sure the Send User Notification checkbox is selected.
+1. In the **Dashboard**, go to **Users** and select **Add New**.
+2. On the **Add New User** page, fill in the fields with with new user's appropriate information. Note: Use the student's UWM email address for both the username and email address.
+3. Make sure the **Send User Notification** checkbox is selected.
 4. Assign an appropriate user role \(see above.\)
 5. When finished, click **Add New User**. 
 6. Instruct the user to perform a [password reset](/accessing-the-news-site/resetting-your-password.md) \(to create their own password.\) **Note**: Users will need to use a strong password. 

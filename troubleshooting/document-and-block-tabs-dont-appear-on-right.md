@@ -4,7 +4,5 @@
 
 **Solution**: Click **Settings** button \(gear\) on right \(see image below.\)
 
-![](../.gitbook/assets/settings-1.png)
-
 
 

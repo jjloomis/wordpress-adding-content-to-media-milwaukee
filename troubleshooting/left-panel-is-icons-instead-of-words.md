@@ -4,7 +4,5 @@
 
 **Solution**: Click **Expand menu** button \(last icon button on left—see image below.\) 
 
-![](../.gitbook/assets/expand-1.png)
-
 
 

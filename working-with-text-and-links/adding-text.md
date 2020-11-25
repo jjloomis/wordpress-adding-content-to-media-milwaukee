@@ -12,5 +12,7 @@
 2. In WordPress, click within an empty **Text** block.
 3. Press **Command** **Shift** **V** \(Mac\) ****or **Control** **Shift** **V** \(PC\) on keyboard to paste the text. This will paste the raw text and remove any formatting present in  the original document. 
 
+![](../.gitbook/assets/paragraph-block.png)
+
 
 
