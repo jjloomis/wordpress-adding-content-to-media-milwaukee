@@ -15,6 +15,8 @@ A properly renamed image might look like this: election-day-loomis-3.mp3.
 3. To upload an MP3, click the **Upload** button. Navigate to and select the MP3 on your computer.
 4. To select an MP3 from the **Media Library**, click the **Media Library** button. Select the MP3 you'd like to use and click the **Select** button. 
 
+![](../.gitbook/assets/audio-block.png)
+
 ### Adding MP3 files to the Media Library
 
 1. Rename MP3 on your computer \(see above.\)

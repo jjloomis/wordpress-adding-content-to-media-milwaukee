@@ -29,6 +29,8 @@ A properly renamed image might look like this: election-day-loomis-3.jpg.
 6. If necessary, [align and resize the image](aligning-and-resizing-an-image.md). 
 7. Add a [caption and alt text](adding-a-caption-and-alt-text-to-an-image-mp3-or-video.md) to the image.
 
+![Adding an image from the Media Library.](../.gitbook/assets/media-library.png)
+
 
 
 

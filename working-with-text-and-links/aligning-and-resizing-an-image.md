@@ -14,6 +14,8 @@ To change the size of an image in a post, use the alignment/ width options liste
 2. In the drop-down list of alignment options, select the alignment you’d like to use \(see above for appropriate use case scenarios.\) 
 3. To deselect or turn off an alignment option, click it again \(it will no longer appear highlighted/ selected. **Note**: The default option is **no alignment** \(text column width.\)
 
+![](../.gitbook/assets/image-alignment.png)
+
 
 
 
