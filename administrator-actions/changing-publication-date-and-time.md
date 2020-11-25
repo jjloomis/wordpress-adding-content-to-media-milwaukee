@@ -14,3 +14,5 @@
 3. In the **calendar** interface, select a new date and time. 
 4. When finished, click **Publish**.
 
+![](../.gitbook/assets/publication-date.png)
+

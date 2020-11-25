@@ -4,5 +4,7 @@
 
 **Solution**: Click **Expand menu** button \(last icon button on left—see image below.\) 
 
+![](../.gitbook/assets/minimized-dashboard.png)
+
 
 

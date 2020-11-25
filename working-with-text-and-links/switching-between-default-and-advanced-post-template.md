@@ -8,5 +8,9 @@ The **Advanced template** is for long-form stories like [this](https://mkemidter
 2. In the **Document** tab area, scroll down to the **Post Attributes** area \(near bottom.\)
 3. Click the drop-down button in the **Template** area. Choose **Default template** or **Advanced template**. **Note**: Do not choose **Advanced template w/ grid** \(this is for creating a grid of existing stories.\)
 
+![](../.gitbook/assets/default-or-advanced-template.png)
+
+
+
 
 

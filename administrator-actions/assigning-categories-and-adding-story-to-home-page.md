@@ -8,3 +8,5 @@
 6. If you’d like the story to appear at the top of a home page category area \(area with featured image\), make sure the story has a featured image \(see Working with a Featured Image.\) Then select **Stick to the top of blog** \(top of **Documents** area.\)
 7. When finished, click **Publish** or **Update**.
 
+![](../.gitbook/assets/categories.png)
+
