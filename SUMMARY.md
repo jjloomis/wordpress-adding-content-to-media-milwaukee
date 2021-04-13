@@ -40,6 +40,7 @@
 
 * [Unable to Log In](troubleshooting/unable-to-log-in.md)
 * [Featured Image is Wrong, Upside Down or Sideways on Social Media](troubleshooting/featured-image-is-wrong-upside-down-or-sideways-on-social-media.md)
+* [Block Editor Toolbar is Missing](troubleshooting/block-editor-toolbar-is-missing.md)
 * [Document and Block Tabs Don’t Appear on Right](troubleshooting/document-and-block-tabs-dont-appear-on-right.md)
 * [Left panel is Icons \(Instead of Words\)](troubleshooting/left-panel-is-icons-instead-of-words.md)
 
